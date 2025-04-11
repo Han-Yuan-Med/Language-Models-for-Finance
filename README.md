@@ -1,7 +1,7 @@
 # Language-Models-for-Financial-Credit-Scoring
 ## Abstract
 Language models (LMs) have exhibited exceptional versatility in reasoning and in-depth financial analysis through their proprietary information processing capabilities. Previous research focused on evaluating classification performance while often overlooking explainability or pre-conceived that refined explanation corresponds to higher classification accuracy. Using a public dataset in finance domain, we quantitatively evaluated self-explanations by LMs, focusing on their factuality and causality. We identified the statistically significant relationship between the accuracy of classifications and the factuality or causality of self-explanations. Our study built an empirical foundation for approximating classification confidence through self-explanations and for optimizing classification via proprietary reasoning.
-> ### Please read our [article]() for further information.
+> ### Please read our [article](https://arxiv.org/abs/2503.15985) for further information.
 
 ## Repository usage
 -   Datset folder: Processed dataset in textual format
